@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219947963767",
+    "firebase_url": "https://gjsmsapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gjsmsapp",
+    "storage_bucket": "gjsmsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219947963767:android:a839759f93d9340640bd72",
+        "android_client_info": {
+          "package_name": "com.gjinfotech.sms.bulkmessenger.gj_sms1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219947963767-steofg4enduoeu8sracj04q1knuo1j6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMDdjhsiYVsCUnVMP6HnS9Gedaz5oTkS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219947963767-steofg4enduoeu8sracj04q1knuo1j6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
